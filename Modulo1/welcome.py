@@ -34,3 +34,4 @@ sfinal3 = 'Y además estas por cumplir %s años. Fue un gusto conocerte, hasta p
 print_words(sfinal)
 print_words(sfinal2)
 print_words(sfinal3)
+sentence9 = 'Enunciado de prueba. '
