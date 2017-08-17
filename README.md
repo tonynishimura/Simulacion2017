@@ -7,8 +7,8 @@ Este curso consiste de tres módulos.
 > Se aplicará una evaluación (**exámen**) y se evaluará una presentación de **proyecto.**
    1. ¿Qué es una simulación?
     - Introducción e instalación de software
-   2. ¿Cómo funciona `Git` ?
-   3. ¿Cómo funciona `Github` ?
+   2. `git`, `GitHub`, `GitKraken`
+   3. `git`, `GitHub`, `GitKraken` (Continuación)
    4. ¿Cómo se muve un péndulo ? 
    5. ¿Cómo funciona la suspensión de un auto? 
    6. ¿Cómo crece una población?
